@@ -26,9 +26,9 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			//The two categories.
 			objectCat1 :  
 			{
-				name : 'Mammals', //Will appear in the data.
+				name : 'blfblflbflblf', //Will appear in the data.
 				title : {
-					media : {word : 'Mammals'}, //Name of the category presented in the task.
+					media : {word : 'fbsakjdfalsjdflsakdjf'}, //Name of the category presented in the task.
 					css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
 					height : 8 //Height (because we need to know where to put the next item in the title)
 				},
