@@ -1,6 +1,7 @@
 define(['pipAPI', 'https://cdn.jsdelivr.net/gh/ljandresen/minno-tasks@0.*/BIAT/qualtrics/qbiat6.js'], function(APIConstructor, iatExtension){
  var API = new APIConstructor();
 
+	// Hallo ich bin Josy
 	
 	return iatExtension({
 		practiceCategory1 : 
